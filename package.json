@@ -1,0 +1,1 @@
+{"description":"Runtime wrapper: downloads official xray-core at start, config from env (PORT/UUID/WS_PATH). No secrets in this repo.","engines":{"node":"22"},"name":"abasthan-node","private":true,"scripts":{"start":"sh start.sh"},"version":"1.0.0"}
